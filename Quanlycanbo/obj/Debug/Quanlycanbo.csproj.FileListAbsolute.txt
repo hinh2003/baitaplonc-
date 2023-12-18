@@ -1,0 +1,10 @@
+D:\hoangquan\Quanlycanbo\Quanlycanbo\bin\Debug\Quanlycanbo.exe.config
+D:\hoangquan\Quanlycanbo\Quanlycanbo\bin\Debug\Quanlycanbo.exe
+D:\hoangquan\Quanlycanbo\Quanlycanbo\bin\Debug\Quanlycanbo.pdb
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.csproj.AssemblyReference.cache
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.Form1.resources
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.Properties.Resources.resources
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.csproj.GenerateResource.cache
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.csproj.CoreCompileInputs.cache
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.exe
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.pdb
