@@ -8,3 +8,7 @@ D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.csproj.GenerateResour
 D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.csproj.CoreCompileInputs.cache
 D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.exe
 D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.pdb
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.DonVi.resources
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.Trinhdo.resources
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.Luong.resources
+D:\hoangquan\Quanlycanbo\Quanlycanbo\obj\Debug\Quanlycanbo.ChucVu.resources

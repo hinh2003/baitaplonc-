@@ -648,6 +648,47 @@ namespace Quanlycanbo
                 MessageBox.Show("Error: " + ex.Message);
             }
         }
+
+        private void thêmĐơnVịToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DonVi donvi = new DonVi(this);
+            this.Hide();
+            donvi.ShowDialog();
+            this.Show();
+        }
+        public void UpdateDonViComboBox()
+        {
+            cbchucvu.Items.Clear();
+            cbdonvi.Items.Clear(); 
+            cbluong.Items.Clear(); 
+            cbtrinhdo.Items.Clear(); 
+            info();
+        }
+
+        private void trìnhĐộToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Trinhdo trinhdo = new Trinhdo(this);
+            this.Hide();
+            trinhdo.ShowDialog();
+            this.Show();
+
+        }
+
+        private void lươngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Luong luong = new Luong(this);
+            this.Hide();
+            luong.ShowDialog();
+            this.Show();
+        }
+
+        private void chứcVụToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ChucVu chucvu = new ChucVu(this);
+            this.Hide();
+            chucvu.ShowDialog();
+            this.Show();
+        }
     }
 }
 
